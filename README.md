@@ -1,7 +1,7 @@
 # Simple_RASP
 RASP的DEMO实现，通过该项目可以非常容易的理解PreMain和AgentMain两种注入方式。
 
-之前学习RASP时候的代码，部分代码参考自网络，现在分享出来，原理就不赘述了，代码中注释写的非常清楚。
+之前学习RASP时候的代码，[部分代码参考自网络](https://www.cnblogs.com/bitterz/p/15080403.html)，现在分享出来，原理就不赘述了，代码中注释写的非常清楚。
 
 **目录**
 
