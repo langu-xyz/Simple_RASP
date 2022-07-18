@@ -1,0 +1,2 @@
+# Simple_RASP
+RASP的DEMO实现，通过该项目可以非常容易的理解PreMain和AgentMain两种注入方式。
